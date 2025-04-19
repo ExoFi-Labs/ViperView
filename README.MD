@@ -3,6 +3,7 @@
 **ViperView** is a sleek, local desktop application that helps you visualize and manage the space used by your installed Python packages.  
 No servers. No terminals. Just a GUI that gives you the power to analyze, filter, and export your pip environment.
 
+![Image](https://github.com/user-attachments/assets/602318b5-4942-4a2b-965a-3ef0aa092b46)
 ---
 
 ## ✨ Features
