@@ -1,0 +1,4 @@
+pyqt5>=5.15
+plotly>=5.20
+pandas>=2.0
+humanize>=4.0
